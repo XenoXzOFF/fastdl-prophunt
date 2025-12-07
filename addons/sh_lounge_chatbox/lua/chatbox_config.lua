@@ -7,7 +7,7 @@
 -- %hostname% : Shows the server's name
 -- %players% : Shows the player count on the server
 -- %uptime% : Uptime of the server
-LOUNGE_CHAT.ChatTitle = "  [FR] Shadow Legacy RP | RECRUTE | SEMI-SERIOUS              %players%"
+LOUNGE_CHAT.ChatTitle = "  Admin - You have admin perms              %players%"
   
 -- Show the player's avatar when sending a message
 LOUNGE_CHAT.ShowPlayerAvatar = true
@@ -19,7 +19,7 @@ LOUNGE_CHAT.MessageStyle = 1
 
 -- Name to display when the console sends a message
 -- Parsers are allowed.
-LOUNGE_CHAT.ConsoleName = "Console"
+LOUNGE_CHAT.ConsoleName = "Server"
 
 -- Whether to use Workshop or the FastDl for the custom content used by the add-on
 LOUNGE_CHAT.UseWorkshop = true

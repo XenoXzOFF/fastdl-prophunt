@@ -92,9 +92,9 @@ LOUNGE_CHAT.EnableCustomTags = true
 -- If you don't want a group to have a custom tag, then don't put it in the table.
 -- You can use parsers here.
 LOUNGE_CHAT.CustomTagsGroups = {
-	["vip"] = ":award_star_gold_1: <color=gold>(VIP)</color>",
-	["admin"] = ":shield: <color=green>(Admin)</color>",
-	["superadmin"] = ":lightning: <rainbow=2>Super Admin</rainbow>",
+	["vip"] = ":award_star_gold_1: <color=gold>VIP</color>",
+	["admin"] = ":shield: <color=green>Admin </color>",
+	["superadmin"] = ":lightning: <rainbow=2>Owner </rainbow>",
 }
 
 -- Here is where you set up custom tags for specific players. Accepts SteamIDs and SteamID64s.
