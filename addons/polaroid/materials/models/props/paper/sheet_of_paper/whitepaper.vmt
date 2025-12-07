@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/props\paper/sheet_of_paper/whitepaper"
+	"$surface" "paper"
+}
